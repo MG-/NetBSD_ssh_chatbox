@@ -3,6 +3,8 @@ ssh-based chatbox
 Tested on NetBSD 9.3
 Compile using cc without further parameters.
 
+This program should be considered experimental / proof of concept.
+
 preparation:
 * create user anonymous
 * make this program the shell of user anonymous, using chsh -s [filename] anonymous
