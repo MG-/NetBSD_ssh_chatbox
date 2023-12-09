@@ -1,5 +1,5 @@
 # NetBSD_ssh_chatbox
-anonymous ssh-based chatbox.
+Anonymous ssh-based chatbox.
 Tested on NetBSD 9.3
 Compile using cc without further parameters.
 
