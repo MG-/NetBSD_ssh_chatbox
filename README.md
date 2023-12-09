@@ -1,6 +1,6 @@
 # NetBSD_ssh_chatbox
 Anonymous ssh-based chatbox.
-Tested on NetBSD 9.3
+Tested on NetBSD 9.3.
 Compile using cc without further parameters.
 
 This program should be considered experimental / proof of concept.
